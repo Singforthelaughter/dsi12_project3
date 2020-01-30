@@ -70,8 +70,8 @@ The LR classification model perform as expected, with an accuracy higher than th
 
 From the LR model, we are able to show the key tokens from each subreddit that contribute to classifying the posts from the coefficient. 
 
-![worldnews_coef](.\img\worldnews_coef.png)
-![uplifting_coef](.\img\uplifting_coef.png)
+![worldnews_coef](./img/worldnews_coef.png)
+![uplifting_coef](./img/uplifting_coef.png)
 
 The key tokens make sense for World News as those are words that made the headline in the past month leading to 31 Jan 2020 (Which also happens to be rather negative terms, sadly). 
 
