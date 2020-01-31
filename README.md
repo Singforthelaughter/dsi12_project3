@@ -17,7 +17,7 @@ To classify whether a post is an uplifting news for reddit to boost positivity w
 
 ## Executive Summary
 
-Reddit is home to thousands of community and plays an influencing role in the social media space along side Facebook, Twitter etc. It is therefore important for reddit to promote a positive outlook for its users among the perceived increases of negative news in recent current event. 
+Reddit is home to thousands of community and plays an influencing role in the social media space along side Facebook, Twitter etc. Research has shown that that when people are reminded of their mortality, their defense of their cultural worldview intensifies, and there is potential to experience anxiety when that occurs ([Source](https://journals.sagepub.com/doi/abs/10.1111/1467-9280.03454)). It is therefore important for reddit to promote a positive outlook for its users among the perceived increases of negative news in recent current event. 
 
 By adopting logistic regression classification model that is trained on posts from subreddit 'Uplifting News', reddit would be able to identify the good news among the news headline posted within reddit and recommend the posts to its users; thereby promoting a positive perspective that the world is not going to end. 
 
